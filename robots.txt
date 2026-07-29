@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangsu-shirts-note.gongdeok-club.xyz/sitemap.xml
